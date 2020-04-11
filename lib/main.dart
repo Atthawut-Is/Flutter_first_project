@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 
 void main() => runApp(
+
   MaterialApp(
+    
     debugShowCheckedModeBanner: false,
     home: Scaffold(
       backgroundColor: Colors.red,
@@ -18,7 +20,7 @@ void main() => runApp(
             children: [
               Center(
                 child: Text(
-                  'Woodito',
+                  'Wooditoz',
                   style: TextStyle(fontSize: 20),
 //change1
 //change2
